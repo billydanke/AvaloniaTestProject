@@ -7,6 +7,7 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="AvaloniaTestProject.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
-        Title="AvaloniaTestProject">
+        Title="AvaloniaTestProject"
+        WindowState="FullScreen">
         <views:MainView />
 </Window>
